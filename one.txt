@@ -1,2 +1,8 @@
 ond
 12
+
+From math.py import numpy
+
+For a in segmentation:
+    inda = []
+    a++
